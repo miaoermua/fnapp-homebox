@@ -1,0 +1,31 @@
+[
+  {
+    "stepTitle": "欢迎使用 Homebox",
+    "items": [
+      {
+        "type": "tips",
+        "field": "wizard_default",
+        "label": "示例项",
+        "rules": [],
+        "options": [],
+        "helpText": "Homebox 家庭网络工具箱。用于组建家庭局域网时，对网络进行调试、检测、压测的工具集合。"
+      },
+      {
+        "type": "tips",
+        "field": "wizard_default",
+        "label": "示例项",
+        "rules": [],
+        "options": [],
+        "helpText": "<br>"
+      },
+      {
+        "type": "tips",
+        "field": "wizard_default",
+        "label": "示例项",
+        "rules": [],
+        "options": [],
+        "helpText": "开启后，可以通过IP: 端口，飞牛webui/app 进行访问测试"
+      }
+    ]
+  }
+]

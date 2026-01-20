@@ -1,0 +1,18 @@
+{
+  ".url": {
+    "homebox.Application": {
+      "noDisplay": false,
+      "allUsers": false,
+      "fileTypes": [],
+      "control": {
+        "accessPerm": "readonly"
+      },
+      "title": "homebox",
+      "icon": "images/icon_{0}.png",
+      "type": "iframe",
+      "protocol": "http",
+      "port": "3300",
+      "url": "/"
+    }
+  }
+}

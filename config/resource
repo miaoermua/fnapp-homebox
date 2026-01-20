@@ -1,0 +1,38 @@
+{
+    "docker-project":
+    {
+        "projects":
+        [
+            {
+                "name": "homebox",
+                "path": "docker"
+            }
+        ]
+    },
+    "data-share":
+    {
+        "shares":
+        [
+            {
+                "name": "homebox",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "docker-homebox"
+                    ]
+                }
+            },
+            {
+                "name": "homebox/data",
+                "permission":
+                {
+                    "rw":
+                    [
+                        "docker-homebox"
+                    ]
+                }
+            }
+        ]
+    }
+}
