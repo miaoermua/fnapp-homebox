@@ -1,9 +1,0 @@
-version: '3.8'
-
-services:
-  homebox:
-    image: xgheaven/homebox
-    container_name: homebox
-    ports:
-      - "3300:3300"
-    restart: unless-stopped
