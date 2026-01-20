@@ -5,6 +5,8 @@ Homebox
 
 https://github.com/XGHeaven/homebox
 
+占用端口: `3300`
+
 因为原始仓库未设置任何许可证，所以默认使用 MIT 许可证。
 二次修改或传播请使用相同许可证，并标注原始作者及信息。
 
