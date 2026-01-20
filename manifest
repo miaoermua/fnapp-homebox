@@ -12,3 +12,4 @@ desktop_uidir=ui
 desktop_applaunchname=homebox.Application
 service_port=3300
 checkport=true
+changelog=正式版
