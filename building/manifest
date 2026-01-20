@@ -1,0 +1,12 @@
+appname=homebox
+version=0.0.24
+display_name=homebox
+desc="""homebox"""
+source=thirdparty
+maintainer=homebox
+distributor=miaoermau
+desktop_uidir=ui
+desktop_applaunchname=homebox.Application
+service_port=3300
+checkport=true
+platform=all
